@@ -1,0 +1,112 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    text-decoration: none;
+    overflow: hidden;
+    
+}
+
+
+img{
+    width: 100%;
+    height: 100vh;
+
+}
+.death{
+    position: absolute;
+    top:40px;
+    left: 60px;
+    background-color: rgba(0, 0, 0, 0.719);
+    padding: 25px;
+    backdrop-filter: blur(5px);
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+.name{
+    font-family: 'Marck Script', cursive;
+    font-size: 50px;
+    color: white;
+}
+
+h4{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+
+
+.kobequote{
+    position: absolute;
+    bottom: 50px;
+    left: 220px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: white 1px solid;
+    backdrop-filter: blur(5px);
+    
+}
+
+.quote{
+    color: white;
+    font-family: 'Marck Script', cursive;
+    font-size:30px;
+    margin-bottom: 20px;
+
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+    font-size:18px;
+}
+
+.kar_message{
+    position: absolute;
+    bottom: 730px;
+    left: 1000px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: white 1px solid;
+    backdrop-filter: blur(5px);
+    width: 30%;
+}
+
+.obama_message{
+    position: absolute;
+    bottom: 555px;
+    left: 1200px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: white 1px solid;
+    backdrop-filter: blur(5px);
+    width: 30%;
+}
+
+.mj_message{
+    position: absolute;
+    bottom: 435px;
+    left: 900px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: white 1px solid;
+    backdrop-filter: blur(5px);
+    width: 30%;
+}
+
+h1{
+    margin-bottom: 15px;
+    color:white;
+    font-family: 'Marck Script', cursive;
+}
+
+
+
+
